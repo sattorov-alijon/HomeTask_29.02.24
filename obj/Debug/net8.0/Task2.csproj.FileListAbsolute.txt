@@ -1,0 +1,42 @@
+C:\Users\Asus\Desktop\C#\Week3\Day3\HomeWork\Task2\obj\Debug\net8.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\C#\Week3\Day3\HomeWork\Task2\obj\Debug\net8.0\Task2.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\C#\Week3\Day3\HomeWork\Task2\obj\Debug\net8.0\Task2.AssemblyInfo.cs
+C:\Users\Asus\Desktop\C#\Week3\Day3\HomeWork\Task2\obj\Debug\net8.0\Task2.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C#\Week3\Day3\HomeWork\Task2\bin\Debug\net8.0\Task2.exe
+C:\Users\Asus\Desktop\C#\Week3\Day3\HomeWork\Task2\bin\Debug\net8.0\Task2.deps.json
+C:\Users\Asus\Desktop\C#\Week3\Day3\HomeWork\Task2\bin\Debug\net8.0\Task2.runtimeconfig.json
+C:\Users\Asus\Desktop\C#\Week3\Day3\HomeWork\Task2\bin\Debug\net8.0\Task2.dll
+C:\Users\Asus\Desktop\C#\Week3\Day3\HomeWork\Task2\bin\Debug\net8.0\Task2.pdb
+C:\Users\Asus\Desktop\C#\Week3\Day3\HomeWork\Task2\obj\Debug\net8.0\Task2.dll
+C:\Users\Asus\Desktop\C#\Week3\Day3\HomeWork\Task2\obj\Debug\net8.0\refint\Task2.dll
+C:\Users\Asus\Desktop\C#\Week3\Day3\HomeWork\Task2\obj\Debug\net8.0\Task2.pdb
+C:\Users\Asus\Desktop\C#\Week3\Day3\HomeWork\Task2\obj\Debug\net8.0\Task2.genruntimeconfig.cache
+C:\Users\Asus\Desktop\C#\Week3\Day3\HomeWork\Task2\obj\Debug\net8.0\ref\Task2.dll
+C:\Users\LENOVO USA\Downloads\Telegram Desktop\homework\HomeWork\Task2\bin\Debug\net8.0\Task2.exe
+C:\Users\LENOVO USA\Downloads\Telegram Desktop\homework\HomeWork\Task2\bin\Debug\net8.0\Task2.deps.json
+C:\Users\LENOVO USA\Downloads\Telegram Desktop\homework\HomeWork\Task2\bin\Debug\net8.0\Task2.runtimeconfig.json
+C:\Users\LENOVO USA\Downloads\Telegram Desktop\homework\HomeWork\Task2\bin\Debug\net8.0\Task2.dll
+C:\Users\LENOVO USA\Downloads\Telegram Desktop\homework\HomeWork\Task2\bin\Debug\net8.0\Task2.pdb
+C:\Users\LENOVO USA\Downloads\Telegram Desktop\homework\HomeWork\Task2\obj\Debug\net8.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO USA\Downloads\Telegram Desktop\homework\HomeWork\Task2\obj\Debug\net8.0\Task2.AssemblyInfoInputs.cache
+C:\Users\LENOVO USA\Downloads\Telegram Desktop\homework\HomeWork\Task2\obj\Debug\net8.0\Task2.AssemblyInfo.cs
+C:\Users\LENOVO USA\Downloads\Telegram Desktop\homework\HomeWork\Task2\obj\Debug\net8.0\Task2.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO USA\Downloads\Telegram Desktop\homework\HomeWork\Task2\obj\Debug\net8.0\Task2.dll
+C:\Users\LENOVO USA\Downloads\Telegram Desktop\homework\HomeWork\Task2\obj\Debug\net8.0\refint\Task2.dll
+C:\Users\LENOVO USA\Downloads\Telegram Desktop\homework\HomeWork\Task2\obj\Debug\net8.0\Task2.pdb
+C:\Users\LENOVO USA\Downloads\Telegram Desktop\homework\HomeWork\Task2\obj\Debug\net8.0\Task2.genruntimeconfig.cache
+C:\Users\LENOVO USA\Downloads\Telegram Desktop\homework\HomeWork\Task2\obj\Debug\net8.0\ref\Task2.dll
+C:\Users\LENOVO USA\Documents\Softclube\С#\week3\day3\HomeTasc\Task2\obj\Debug\net8.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO USA\Documents\Softclube\С#\week3\day3\HomeTasc\Task2\obj\Debug\net8.0\Task2.AssemblyInfoInputs.cache
+C:\Users\LENOVO USA\Documents\Softclube\С#\week3\day3\HomeTasc\Task2\obj\Debug\net8.0\Task2.AssemblyInfo.cs
+C:\Users\LENOVO USA\Documents\Softclube\С#\week3\day3\HomeTasc\Task2\obj\Debug\net8.0\Task2.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO USA\Documents\Softclube\С#\week3\day3\HomeTasc\Task2\obj\Debug\net8.0\Task2.dll
+C:\Users\LENOVO USA\Documents\Softclube\С#\week3\day3\HomeTasc\Task2\obj\Debug\net8.0\refint\Task2.dll
+C:\Users\LENOVO USA\Documents\Softclube\С#\week3\day3\HomeTasc\Task2\obj\Debug\net8.0\Task2.pdb
+C:\Users\LENOVO USA\Documents\Softclube\С#\week3\day3\HomeTasc\Task2\bin\Debug\net8.0\Task2.exe
+C:\Users\LENOVO USA\Documents\Softclube\С#\week3\day3\HomeTasc\Task2\bin\Debug\net8.0\Task2.deps.json
+C:\Users\LENOVO USA\Documents\Softclube\С#\week3\day3\HomeTasc\Task2\bin\Debug\net8.0\Task2.runtimeconfig.json
+C:\Users\LENOVO USA\Documents\Softclube\С#\week3\day3\HomeTasc\Task2\bin\Debug\net8.0\Task2.dll
+C:\Users\LENOVO USA\Documents\Softclube\С#\week3\day3\HomeTasc\Task2\bin\Debug\net8.0\Task2.pdb
+C:\Users\LENOVO USA\Documents\Softclube\С#\week3\day3\HomeTasc\Task2\obj\Debug\net8.0\Task2.genruntimeconfig.cache
+C:\Users\LENOVO USA\Documents\Softclube\С#\week3\day3\HomeTasc\Task2\obj\Debug\net8.0\ref\Task2.dll
